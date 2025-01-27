@@ -1,0 +1,18 @@
+﻿Name,Data Type,Missing Values (%),Unique Values,Observations,Min Value ,Max Value 
+AKA Name,V_WString,0.865864083,31385,"This field records the commonly called names of the restaurants, it has an higher number of missing values",EL,"MAE'S EARLY CHILDHOOD DEVELOPMENT AND THERAPEUTIC DAY CARE CENTER, INCORPORATED"
+Longitude,V_WString,0.347271691,18412,"Records the longitude co-ordinates of the restaurants, it has null data of 34%.",-87.66946465,-87.62616828
+Address,V_WString,0,19874,Captures complete address info of the restaurants.,,1400 S JEAN BAPTISTE POINTE DUSABLE LAKESHORE DRIVE
+State,V_WString,0.022439094,7,Captures the state names info of the restaurants.,IL,IL
+DBA Name,V_WString,0,32990,"Records the registered names of the business, it has no null values",N,"MAE'S EARLY CHILDHOOD DEVELOPMENT AND THERAPEUTIC DAY CARE CENTER, INCORPORATED"
+Inspection ID,V_WString,0,280760,"Unique identifier exclusive of Chicago dataset, helped in uniquely identifying records",88698,2603151
+License #,V_WString,0.00641117,45806,Alternate key exclusive of Chicago dataset assigned by Dept.of Business Affairs and Consumer Protection.,0,1617528
+Latitude,V_WString,0.347271691,18412,Records the latitude co-ordinates of the restaurants. Helpful in performing geographic visualizations,41.78613073,41.88310863
+City,V_WString,0.055207294,86,Captures the city names of the restaurants located.,CH,BANNOCKBURNDEERFIELD
+Violations,V_WString,27.59189343,201864,-,63. REMOVAL OF SUSPENSION SIGN,"2. FACILITIES TO MAINTAIN PROPER TEMPERATURE - Comments: All food establishments that display, prepare, or store potentially hazardous food shall have adequate refrigerated food storage facilities……………………..…"
+Risk,V_WString,0.029562616,5,Restaurants are classified as per the risk levels from 1 to 3 with 1 representing highest risk.,All,Risk 2 (Medium)
+Location,V_WString,0.347271691,18412,This column represents the combined co-ordinates of latitude and longitude of the establishments,"(41.73536766705, -87.638879040659)","(41.883108627266935, -87.62794877080378)"
+Inspection Type,V_WString,0.000356176,111,Categorizes various inspection types such as routine canvass and complaint responses.,SFP,LICENSE TASK FORCE / NOT -FOR-PROFIT CLUB
+Inspection Date,V_WString,0,3738,Column representing the dates of each inspection,9/19/2024,9/19/2024
+Facility Type,V_WString,1.841074227,520,Column that represents the type of facilities that are present in the respective establishments.,bar,Mobile Frozen Dessert Dispenser_non  Motorized.
+Zip,V_WString,0.01460322,127,Column that captures the zipcodes of the establishments.,60656,60656
+Results,V_WString,0,7,"Column that captures the outcomes of the inspections whether the establishments passed, passed with conditions, or failed.",Pass,Business Not Located
