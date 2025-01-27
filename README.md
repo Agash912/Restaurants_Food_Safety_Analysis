@@ -1,4 +1,4 @@
-# Restaurants Food Safety Analytics
+# Restaurants Food Safety Analysis
 
 ## Project Overview
 Developed a food safety inspection analytics platform for eateries in Chicago and Dallas using government-provided datasets. The project involved data profiling and transformation, followed by dimensional modeling to organize data into facts and dimensions for analysis. Intuitive dashboards were designed to provide actionable insights into inspection outcomes, risk categories, violation patterns, and compliance trends. The platform aims to empower public health officials and decision-makers with data-driven tools to effectively monitor and enhance food safety standards.
