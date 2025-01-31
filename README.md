@@ -3,10 +3,8 @@
 ## Project Overview
 Developed a food safety inspection analytics platform for eateries in Chicago and Dallas using government-provided datasets. The project involved data profiling and transformation, followed by dimensional modeling to organize data into facts and dimensions for analysis. Intuitive dashboards were designed to provide actionable insights into inspection outcomes, risk categories, violation patterns, and compliance trends. The platform aims to empower public health officials and decision-makers with data-driven tools to effectively monitor and enhance food safety standards.
 
-- Tools Used: Alteryx, Microsoft Excel, Talend, ER Studio, Snowflake, SQL, Snowflake, PowerBI, Tableau
-- [PowerBI Visualization Link]()
-- [Tableau Visualization Link](https://public.tableau.com/app/profile/agash.uthayasuriyan/viz/Food_Inspection_Report_Agash/OverviewDashboard)
-
+Tools Used: Alteryx, Microsoft Excel, Talend, ER Studio, Snowflake, SQL, Snowflake, PowerBI, Tableau
+  
 ## Datasets Overview
 
 ### Chicago Dataset
